@@ -1,4 +1,3 @@
-
 import pandas as pd
 #1.Add 12 records
 data=[]
